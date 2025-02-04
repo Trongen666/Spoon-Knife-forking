@@ -1,5 +1,5 @@
 ### Well hello there! This is my fork. 
-# I will now make a pull request to the spoon-knife repo fro practice.
+# I will now make a pull request to the spoon-knife repo for practice.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
